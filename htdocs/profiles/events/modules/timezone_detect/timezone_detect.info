@@ -1,0 +1,11 @@
+name = Timezone Detect
+description = Provides automatic timezone detection via Javascript.
+package = Date/Time
+configure = admin/config/regional/timezone_detect
+backdrop = 1.x
+type = module
+
+; Added by Backdrop CMS packaging script on 2020-09-14
+project = timezone_detect
+version = 1.x-1.2.0
+timestamp = 1600114024

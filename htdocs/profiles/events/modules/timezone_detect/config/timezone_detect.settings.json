@@ -1,0 +1,6 @@
+{
+    "_config_name": "timezone_detect.settings",
+    "mode": 0,
+    "success_watchdog": 1,
+    "update_timezone_every_login": 1
+}
