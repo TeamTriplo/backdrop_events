@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 name = Events
 description = Install for a special Backdrop event site.
-=======
-name = Standard
-description = Install with commonly used features pre-configured.
->>>>>>> 6dacae88784edb6bb80d8cb5ac2713be8b753ea2
 version = BACKDROP_VERSION
 backdrop = 1.x
 type = profile
