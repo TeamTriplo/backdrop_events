@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 name = Events
 description = Install for a special Backdrop event site.
+=======
+name = Standard
+description = Install with commonly used features pre-configured.
+>>>>>>> 6dacae88784edb6bb80d8cb5ac2713be8b753ea2
 version = BACKDROP_VERSION
 backdrop = 1.x
 type = profile
@@ -34,8 +39,15 @@ dependencies[] = update
 dependencies[] = views
 dependencies[] = views_ui
 
+<<<<<<< HEAD
 ; Backdrop Events specific modules
 
 dependencies[] = backup_migrate
 dependencies[] = devel
 
+=======
+; Added by Backdrop CMS packaging script on 2020-09-30
+project = backdrop
+version = 1.17.1
+timestamp = 1601500405
+>>>>>>> 6dacae88784edb6bb80d8cb5ac2713be8b753ea2

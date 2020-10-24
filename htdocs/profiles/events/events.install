@@ -1,7 +1,11 @@
 <?php
 /**
  * @file
+<<<<<<< HEAD
  * Install, update and uninstall functions for the events installation profile.
+=======
+ * Install, update and uninstall functions for the standard installation profile.
+>>>>>>> 6dacae88784edb6bb80d8cb5ac2713be8b753ea2
  */
 
 /**
@@ -11,7 +15,11 @@
  *
  * @see system_install()
  */
+<<<<<<< HEAD
 function events_install() {
+=======
+function standard_install() {
+>>>>>>> 6dacae88784edb6bb80d8cb5ac2713be8b753ea2
   // Add text formats.
   $filtered_html_format = array(
     'format' => 'filtered_html',
@@ -101,7 +109,11 @@ function events_install() {
 
   // Enable Basis theme and set it as default theme instead of Stark.
   // @see system_install()
+<<<<<<< HEAD
   $default_theme = 'corporate_kiss';
+=======
+  $default_theme = 'basis';
+>>>>>>> 6dacae88784edb6bb80d8cb5ac2713be8b753ea2
   config_set('system.core', 'theme_default', $default_theme);
   theme_enable(array($default_theme));
   theme_disable(array('stark'));
