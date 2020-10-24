@@ -9,27 +9,11 @@ Backdrop CMS community and some of our most active participants.
 CONTENTS OF THIS FILE
 ---------------------
 
-
-
-
-KNOWN ISSUES
-------------
-
-See above.
-
-A user migration with systemOfRecord == DESTINATION will drop pictures from user
-records due to core bug http://drupal.org/node/935592 - the SimpleTests report
-an error reflecting this. We have not developed a work-around.
-
-Do not attempt to upgrade directly from Migrate 1 to Migrate 2! There is no
-automated path to upgrade. Your migrations (formerly known as "content sets")
-must be re-implemented from scratch. It is recommended that projects using
-Migrate 1 stay with Migrate 1, and that Migrate 2 be used for any new migration
-projects.
-
-
-
-
+* Requirements
+* Installation
+* License
+* Credits
+* Maintainers
 
 REQUIREMENTS
 ------------
@@ -55,9 +39,7 @@ complete text.
 CREDITS
 -----------
 
-- [Mike Ryan](http://drupal.org/user/4420)
-- [Moshe Weitzman](http://drupal.org/user/23)
-
+- Coming soon...
 
 MAINTAINERS
 -----------
