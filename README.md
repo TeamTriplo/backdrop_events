@@ -54,6 +54,6 @@ CREDITS
 MAINTAINERS
 -----------
 
-- Tim Erickson - (https://github.com/stpaultim)
+- Tim Erickson (https://github.com/stpaultim)
 - Jen Lampton (https://github.com/jenlampton)
 
