@@ -1,0 +1,4 @@
+name: events
+recipe: backdrop
+config:
+  webroot: htdocs
