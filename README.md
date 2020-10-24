@@ -13,6 +13,7 @@ CONTENTS OF THIS FILE
 
 * Requirements
 * Installation
+* Included Modules
 * License
 * Credits
 * Maintainers
@@ -30,6 +31,13 @@ Install as you would any Backdrop CMS site, but note the following differences.
 The root directory for your Backdrop Event site will be in the htdocs directory.
 You can move Backdrop from this directory as needed. 
 
+INCLUDED MODULES
+----------------
+
+* Backup and Migrate
+* Config Batch Upload
+* Devel
+* Flag
 
 LICENSE
 -------
