@@ -7,6 +7,8 @@ Backdrop CMS community and some of our most active participants.
 
 For more information, read (and contribute to) [the wiki for this project](https://github.com/TeamTriplo/backdrop_events/wiki). 
 
+If you would be interested in helping with this project, please comment in the [following issue](https://github.com/TeamTriplo/backdrop_events/issues/26). 
+
 
 CONTENTS OF THIS FILE
 ---------------------
@@ -55,5 +57,5 @@ MAINTAINERS
 -----------
 
 - Tim Erickson (https://github.com/stpaultim)
-- Jen Lampton (https://github.com/jenlampton)
+- Jen Lampton (https://github.com/jenlampton) (???)
 
